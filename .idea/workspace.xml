@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b508004-d248-4448-a3d5-0ac14e0236ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/files/ZHAO_YUE_CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/bio.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/bio.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/alex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/back/LujiaZhong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/back/leo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/back/lumingyuan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/gong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/jackson.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/li.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/lili.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/michael.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/sheng.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/sihan.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/tiankai.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/xhy.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/xingcan.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/yichi.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/yuangang.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/others/zhuo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2n7ZtE1YE33lQfd83MuKclEH5OE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ziyan/PycharmProjects/ZiyangS.github.io"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b508004-d248-4448-a3d5-0ac14e0236ad" name="Changes" comment="" />
+      <created>1728326286344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728326286344</updated>
+    </task>
+    <servers />
+  </component>
+</project>
