@@ -1,5 +1,4 @@
-Ziyang Song is a PhD candidate of Computer Science at the McGill University, supervised by Prof. Yue Li.
-My research is centered on developing interpretable artificial intelligence (AI) models for healthcare applications.
-Specifically, I apply ML techniques in generative AI and probabilistic AI to analyze diverse medical data, including EHRs, biosignals, and genetic data.
-My work aims to address critical challenges in clinical decision support, including forecasting patient health trajectories, personalizing medication, and predicting disease risks.
-Notably, my research of interpretable probabilistic models has been implemented at the CARTaGENE group of CHU-SJ hospital, identifying high-risk individuals often overlooked by traditional methods.
+Ziyang Song is a PhD candidate of Computer Science at McGill University, supervised by Prof. Yue Li.
+My research is centered on developing AI techniques for healthcare applications, with a focus on generative AI and probabilistic machine learning.
+Specifically, I apply ML techniques in generative AI and probabilistic machine learning to analyze diverse medical data, including EHRs, biosignals, and genomics data.
+My research of probabilistic models has been implemented at the CHU-SJ hospital, helping clinicians identify high-risk patients often overlooked by traditional rule-based methods.
