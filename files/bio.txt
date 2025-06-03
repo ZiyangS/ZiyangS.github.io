@@ -1,4 +1,6 @@
-Ziyang Song is a PhD candidate of Computer Science at McGill University, supervised by Prof. Yue Li.
-My research is centered on developing AI techniques for healthcare applications, with a focus on generative AI and probabilistic machine learning.
-Specifically, I apply ML techniques in generative AI and probabilistic machine learning to analyze diverse medical data, including EHRs, biosignals, and genomics data.
-My research of probabilistic models has been implemented at the CHU-SJ hospital, helping clinicians identify high-risk patients often overlooked by traditional rule-based methods.
+Dr. Ziyang Song will join Ohio University as an Assistant Professor of Electrical Engineering and Computer Science (EECS).
+He holds a Ph.D. degree in Computer Science at McGill University.
+
+His research centers on AI for health, with a focus on building AI models with strong explainability to sovle biomedical challenges.
+He specializes in generative AI and statistical machine learning, with an emphasis on health time-series modeling and multi-modal EHR analysis.
+
