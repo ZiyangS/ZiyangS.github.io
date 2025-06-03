@@ -1,6 +1,4 @@
 Dr. Ziyang Song will join Ohio University as an Assistant Professor of Electrical Engineering and Computer Science (EECS).
 He holds a Ph.D. degree in Computer Science at McGill University.
-
-His research centers on AI for health, with a focus on building AI models with strong explainability to sovle biomedical challenges.
-He specializes in generative AI and statistical machine learning, with an emphasis on health time-series modeling and multi-modal EHR analysis.
+His research centers on AI for health, with a focus on building AI models with strong explainability to solve biomedical challenges.
 
