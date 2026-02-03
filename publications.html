@@ -24,6 +24,11 @@
 
 <body>
     <style>
+        :root{
+            --sidebar-width: 320px;  /* 固定 sidebar 宽度（桌面端） */
+            --avatar-max: 260px;     /* 固定头像最大宽度（视觉大小） */
+        }
+
         body {
             font-family: 'Roboto', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Arial', 'Noto Sans', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
         }
@@ -51,14 +56,28 @@
 
         .content-spacing {
             margin-top: 30px;
-            /*margin-left: 20px;*/
         }
 
         .headshot {
-            max-width: 115%;
-            max-height: 115%;
+            width: 100%;
+            max-width: var(--avatar-max);
             height: auto;
+            display: block;
             margin: 0 auto;
+        }
+
+        @media (min-width: 768px){
+            .sidebar-col{
+                flex: 0 0 var(--sidebar-width) !important;
+                max-width: var(--sidebar-width) !important;
+            }
+            .main-col{
+                flex: 1 1 auto !important;
+                max-width: calc(100% - var(--sidebar-width)) !important;
+            }
+            .link-list{
+                white-space: nowrap;
+            }
         }
 
         a {
@@ -108,7 +127,7 @@
                     <a href="https://scholar.google.ca/citations?user=fptMer8AAAAJ&hl=en">Google Scholar</a> |
 <!--                     <a href="files/bio.txt">Short Bio</a> |-->
                     <a href="https://www.linkedin.com/in/ziyang-song-145ba4170/">LinkedIn</a> |
-                    <a href="https://www.xiaohongshu.com/user/profile/6165c75c0000000002020511">Xiaohongshug</a>
+                    <a href="https://www.xiaohongshu.com/user/profile/6165c75c0000000002020511">Xiaohongshu</a>
 <!--                     <span title="Combined followers across all platforms" style="color:#990000;">
                         <i class="fas fa-users"></i> 250k+ followers in total
                     </span> -->
@@ -203,7 +222,7 @@
                     <ul class="vert">
                         <li>
                           PheCode-guided multi-modal topic modeling of electronic health records improves disease incidence prediction and GWAS discovery from UK Biobank.<br>
-                          Ziqi Yang<sup>&dagger;</sup>, Ziyang Song<sup>&dagger;</sup>, Shadi Zabad, Marc-Andr&eacute; Legault, Yue Li.<br>
+                          Ziqi Yang<sup>&dagger;</sup>, <u>Ziyang Song</u><sup>&dagger;</sup>, Shadi Zabad, Marc-Andr&eacute; Legault, Yue Li.<br>
                           <i>Briefings in Bioinformatics</i>, 2026.
                         </li>
                         <li>
