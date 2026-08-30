@@ -1,5 +1,5 @@
 Dr. Ziyang Song joined Ohio University as an Assistant Professor of Electrical Engineering and Computer Science (EECS).
 He earned his Ph.D. in Computer Science at McGill University, supervised by Prof. Yue Li (https://www.cs.mcgill.ca/~yueli/).
-His research centers on AI for health, with a focus on generative AI and statistical machine learning.
-His long-term vision is to develop trustworthy and translational AI to address biomedical challenges.
+His research centers on AI for health, with a focus on large language models (LLMs), agentic systems, generative AI, and probabilistic modeling.
+His long-term vision is to develop trustworthy and translational AI to address biomedical challenges involving electronic health records (EHRs), biosignals, and biological data.
 
